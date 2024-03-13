@@ -1,0 +1,127 @@
+[
+    {
+        "allPlugUseData": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [],
+            [],
+            [],
+            [],
+            [
+                15001
+            ],
+            [],
+            null,
+            null,
+            [],
+            [
+                {
+                    "filePath": "Game/GCplug/289/Uiboxsize_yyvhc.ts",
+                    "isServer": false
+                }
+            ],
+            null,
+            null,
+            [],
+            [],
+            []
+        ],
+        "id": 289,
+        "name": "缩放组件倍率",
+        "lastUpdateTime": 1657162779,
+        "author": "BlackWhite",
+        "gcver": null
+    },
+    {
+        "allPlugUseData": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [],
+            [],
+            [],
+            [],
+            [
+                15003
+            ],
+            [],
+            null,
+            null,
+            [],
+            [
+                {
+                    "filePath": "Game/GCplug/285/BgmNo_yyvhc.ts",
+                    "isServer": false
+                }
+            ],
+            null,
+            null,
+            [],
+            [],
+            []
+        ],
+        "id": 285,
+        "name": "游戏静音插件",
+        "lastUpdateTime": 1657162779,
+        "author": "BlackWhite",
+        "gcver": null
+    },
+    {
+        "allPlugUseData": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [],
+            [
+                2
+            ],
+            [
+                15001
+            ],
+            [],
+            [
+                15004
+            ],
+            [],
+            [
+                [
+                    "cursorStyle_Bind"
+                ]
+            ],
+            null,
+            [],
+            [
+                {
+                    "filePath": "Game/GCplug/780/CursorStyleDiy.ts",
+                    "isServer": false
+                }
+            ],
+            null,
+            null,
+            [],
+            [],
+            []
+        ],
+        "id": 780,
+        "name": "光标自定义plus",
+        "lastUpdateTime": 1689001175,
+        "author": "BlackWhite",
+        "gcver": null
+    }
+]

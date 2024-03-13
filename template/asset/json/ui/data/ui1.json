@@ -1,0 +1,172 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "42254365299_0.44715336593450794",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "标题背景",
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": false,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/titles/bg.png",
+                "grid9": "3,3,3,3,0",
+                "flip": null,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "132029599959_0.04021989790039915",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "半透明背景",
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080,
+                "opacity": 0.8,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": false,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/other/Black.png",
+                "grid9": "0,0,0,0,0",
+                "flip": false,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "152754627911_0.08781845033414282",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片1",
+                "x": 991,
+                "y": 780,
+                "width": 508,
+                "height": 508,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [
+                    null,
+                    true,
+                    true
+                ],
+                "isOpen": true,
+                "image": "asset/image/picture/icon/item/CrystalBall_2.png",
+                "grid9": "0,0,0,0,0",
+                "flip": true,
+                "isTile": false,
+                "pivotType": 1
+            },
+            {
+                "id": "152755138475_0.8237155834387939",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片2",
+                "x": 350,
+                "y": 353,
+                "width": 377,
+                "height": 377,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [
+                    null,
+                    true,
+                    true
+                ],
+                "isOpen": true,
+                "image": "asset/image/picture/icon/item/Map_4.png",
+                "grid9": "0,0,0,0,0",
+                "flip": true,
+                "isTile": false,
+                "pivotType": 1
+            },
+            {
+                "id": "152755239916_0.44287297635691614",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片3",
+                "x": 1539,
+                "y": 340,
+                "width": 508,
+                "height": 508,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [
+                    null,
+                    true,
+                    true
+                ],
+                "isOpen": true,
+                "image": "asset/image/picture/icon/item/Letter_1.png",
+                "grid9": "0,0,0,0,0",
+                "flip": true,
+                "isTile": false,
+                "pivotType": 1
+            }
+        ]
+    },
+    "id": 1,
+    "instanceClassName": "",
+    "hasRootCommand": [
+        null,
+        null,
+        null,
+        true
+    ],
+    "lock": true
+}

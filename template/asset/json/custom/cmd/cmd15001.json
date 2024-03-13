@@ -1,0 +1,377 @@
+{
+    "compAutoOrderLimitHeight": 0,
+    "id": 15001,
+    "blockList": [
+        {
+            "name": "缩放组件倍率 by BlackWhite",
+            "blockAttrs": [
+                {
+                    "attr": {
+                        "id": "72403843710_0.125660554024019",
+                        "varName": "uiboxsizeDiyname_yyvhc",
+                        "varType": 5,
+                        "compData": {
+                            "compType": 46,
+                            "compParam": {
+                                "items": "常量,变量,直接指定组件",
+                                "showIndex": true,
+                                "typeMode": 0
+                            }
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "选择组件",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false,
+                        "enumEnable_get": true,
+                        "enumEnable_set": true
+                    },
+                    "attrConditions": [],
+                    "y": 6,
+                    "x": 6,
+                    "width": 211,
+                    "height": 63
+                },
+                {
+                    "attr": {
+                        "id": "72324724095_0.22567830891588825",
+                        "varName": "uiboxsizeDiyXY_yyvhc",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 0,
+                            "compParam": {}
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "缩放倍率(XY)",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "72324835006_0.2557518356302686",
+                            "value": 0,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 4,
+                    "x": 224,
+                    "width": 200,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "72324835006_0.2557518356302686",
+                        "varName": "uiboxsizeXY_yyvhc",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 2,
+                            "compParam": {
+                                "items": "全局,局部",
+                                "showIndex": false
+                            }
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": " ",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": false,
+                        "titleWidth": 0,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 5,
+                    "x": 432,
+                    "width": 73,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "72403514090_0.5481840466377159",
+                        "varName": "uiboxsizeDiyX_yyvhc",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 0,
+                            "compParam": {}
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "缩放倍率(X)",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false,
+                        "enumEnable_get": true,
+                        "enumEnable_set": true
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "72324835006_0.2557518356302686",
+                            "value": 1,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 4,
+                    "x": 224,
+                    "width": 200,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "72403519222_0.7428344680894203",
+                        "varName": "uiboxsizeDiyY_yyvhc",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 0,
+                            "compParam": {}
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "缩放倍率(Y)",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "72324835006_0.2557518356302686",
+                            "value": 1,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 42,
+                    "x": 224,
+                    "width": 200,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "72411677576_0.34196884851214016",
+                        "varName": "uiboxtween_yyvhc",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 2,
+                            "compParam": {
+                                "items": "否,是",
+                                "showIndex": false
+                            }
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "是否过渡",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 5,
+                    "x": 508,
+                    "width": 142,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "72411736138_0.2967383993405297",
+                        "varName": "uiboxtweenmm_yyvhc",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 0,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "毫秒",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "72411677576_0.34196884851214016",
+                            "value": 1,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 42,
+                    "x": 508,
+                    "width": 140,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "76386144825_0.5951979671193408",
+                        "varName": "uiboxtween2_yyvhc",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 9,
+                            "compParam": {}
+                        },
+                        "defaultValue": "linearNone",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "过渡效果",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "72411677576_0.34196884851214016",
+                            "value": 1,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 42,
+                    "x": 662,
+                    "width": 138,
+                    "height": 32
+                }
+            ],
+            "blockCondition": [],
+            "blockHeight": 82,
+            "autoOrder": true,
+            "hideBlockTitle": false,
+            "cmdColor": "#00ffd0"
+        }
+    ],
+    "isCustomPhraseDesc": true,
+    "name": "缩放组件倍率",
+    "compAutoOrder": false,
+    "fastModifyAttribute": false,
+    "customPhraseDescTS": "// 根据属性名称值编写自定义短语描述，如：\"我的短语是\"+attrs.xxx\n// 使用下拉框组件的变量attrs.xxx有对应的attrs.xxxItems的属性以便获得标签名集合\n// 获取自定义模块的数据名称的函数：getModuleDataName(moduleID:number,dataID:number):string;\n// 获取各种列表内数据名称的函数：getTypeDataListName(typeID: number, dataID: number):string;\n// -- typeID ：0-全局变量 1-全局开关 2-全局字符串 3-玩家变量 4-玩家开关 5-玩家字符串\n//           ：6-场景列表 7-场景对象模型列表 8-图块列表 9-行走图列表 10-行走图动作列表 11-立绘列表 12-立绘表情列表\n//           ：13-公共事件 14-对话框列表 15-动画列表 16-动画信号列表 17-界面列表 18-数据结构列表 19-自定义模块列表\n//           ：20-自定义命令列表 21-自定义行为列表 22-自动元件列表 23-行走图部件列表 24-立绘部件列表 25-材质列表\nvar str = \"\";\nif (attrs.uiboxsizeDiyname_yyvhc) {\n    str +=\"选择界面：\" + attrs.uiboxsizeDiyname_yyvhc.uiID + \"-\" + getTypeDataListName(17, attrs.uiboxsizeDiyname_yyvhc.uiID) + \"，选择组件：\" + attrs.uiboxsizeDiyname_yyvhc.compName\n}\nstr += \"\\n\";\nif (attrs.uiboxsizeXY_yyvhc == 0) {\n    str += \"全局缩放倍率(XY)\" + \"=\" + attrs.uiboxsizeDiyXY_yyvhc + \"倍\";\n} else {\n    str += \"缩放倍率(X)\" + \"=\" + attrs.uiboxsizeDiyX_yyvhc + \"倍\";\n    str += \"\\n\";\n    str += \"缩放倍率(Y)\" + \"=\" + attrs.uiboxsizeDiyY_yyvhc + \"倍\";\n}\nif (attrs.uiboxtween_yyvhc == 1) {\n    str += \"\\n\";\n    str += \"过渡:\" + attrs.uiboxtweenmm_yyvhc + \"毫秒，过渡效果:\" + attrs.uiboxtween2_yyvhc;\n}else {\n    str += \"\"\n}\n",
+    "customPhraseDescJS": "var str = \"\";\nif (attrs.uiboxsizeDiyname_yyvhc) {\n    str += \"选择界面：\" + attrs.uiboxsizeDiyname_yyvhc.uiID + \"-\" + getTypeDataListName(17, attrs.uiboxsizeDiyname_yyvhc.uiID) + \"，选择组件：\" + attrs.uiboxsizeDiyname_yyvhc.compName;\n}\nstr += \"\\n\";\nif (attrs.uiboxsizeXY_yyvhc == 0) {\n    str += \"全局缩放倍率(XY)\" + \"=\" + attrs.uiboxsizeDiyXY_yyvhc + \"倍\";\n}\nelse {\n    str += \"缩放倍率(X)\" + \"=\" + attrs.uiboxsizeDiyX_yyvhc + \"倍\";\n    str += \"\\n\";\n    str += \"缩放倍率(Y)\" + \"=\" + attrs.uiboxsizeDiyY_yyvhc + \"倍\";\n}\nif (attrs.uiboxtween_yyvhc == 1) {\n    str += \"\\n\";\n    str += \"过渡:\" + attrs.uiboxtweenmm_yyvhc + \"毫秒，过渡效果:\" + attrs.uiboxtween2_yyvhc;\n}\nelse {\n    str += \"\";\n}\n"
+}
