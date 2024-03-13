@@ -5,8 +5,8 @@ module CommandExecute {
     const compID = ui.compsIDInfo[p.select.compID]
     if (!compID)
       return trace('【缩放组件倍率plus】请指定界面组件')
-    // 设置数据
 
+    // 设置数据
     const scaleX = (p.scaleType === 1 ? (p.scaleXType === 0 ? p.scaleX : Game.player.variable.getVariable(p.scaleXVar)) : (p.scaleXYType === 0 ? p.scaleXY : Game.player.variable.getVariable(p.scaleXYVar)))
     const scaleY = (p.scaleType === 1 ? (p.scaleYType === 0 ? p.scaleY : Game.player.variable.getVariable(p.scaleYVar)) : (p.scaleXYType === 0 ? p.scaleXY : Game.player.variable.getVariable(p.scaleXYVar)))
     const tweenTime = p.tweenTimeType === 0 ? p.tweenTime : Game.player.variable.getVariable(p.tweenTimeVar)
